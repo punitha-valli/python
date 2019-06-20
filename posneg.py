@@ -1,8 +1,8 @@
 a=0
 print (a)
 if a>0:
-  print ("A is positive:",a)
+  print ("Positive")
 elif a<0:
-  print("A is negative:",a)
+  print("Negative")
 else:
-  print ("A is zero:",a)
+  print ("Zero")
